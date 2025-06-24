@@ -1,2 +1,2 @@
 # primeiroRep1
-Projeto do prof Alcides
+Projeto do professor Alcides
